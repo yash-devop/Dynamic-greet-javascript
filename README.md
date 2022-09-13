@@ -1,6 +1,7 @@
 # Dynamic-greet-javascript
 I had created a Dynamic Personalised Browser welcome page using Javascript.
 ## It will Automatically changes according to the System Time .
+# Use of: LocalStorage
 You can also add your Name to the [Enter your name] section.
 
 Live Site Link :  https://dynamicwelcomepage.netlify.app/
